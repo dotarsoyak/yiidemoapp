@@ -1,5 +1,6 @@
 {
     "name": "demo/yii",
+    "license": "MIT",
     "description": "demo_application",
     "require": {
         "monolog/monolog": "2.9.*"

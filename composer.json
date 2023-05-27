@@ -2,6 +2,6 @@
     "name": "demo/yii",
     "description": "demo_application",
     "require": {
-        "monolog/monolog": "3.3.*"
+        "monolog/monolog": "2.9.*"
     }
 }
